@@ -1,0 +1,21 @@
+{
+  "aviso": "Valores ilustrativos, não são médias ou tarifas oficiais. Edite para fazer estudos locais.",
+  "residencia": {
+    "potencia_kwp": 3,
+    "horas_sol_pleno_dia": 4.5,
+    "dias_mes": 30,
+    "desempenho": 0.8,
+    "consumo_compensavel_kwh": 250,
+    "valor_evitado_por_kwh_reais": 0.85,
+    "investimento_reais": 14000
+  },
+  "centro_comunitario": {
+    "potencia_kwp": 8,
+    "horas_sol_pleno_dia": 4.5,
+    "dias_mes": 30,
+    "desempenho": 0.8,
+    "consumo_compensavel_kwh": 700,
+    "valor_evitado_por_kwh_reais": 0.85,
+    "investimento_reais": 36000
+  }
+}

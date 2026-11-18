@@ -1,0 +1,15 @@
+{
+  "aviso": "Potências aproximadas para fins didáticos; aparelhos reais variam por modelo, eficiência, temperatura e uso. Geladeira usa potência média equivalente ao ciclo de funcionamento, não potência nominal.",
+  "aparelhos": [
+    {"id": "geladeira", "nome": "Geladeira", "potencia_media_w": 60, "horas_por_dia": 24},
+    {"id": "televisao", "nome": "Televisão", "potencia_media_w": 100, "horas_por_dia": 4},
+    {"id": "ventilador", "nome": "Ventilador", "potencia_media_w": 65, "horas_por_dia": 6},
+    {"id": "ar_condicionado", "nome": "Ar-condicionado", "potencia_media_w": 1000, "horas_por_dia": 6},
+    {"id": "chuveiro", "nome": "Chuveiro elétrico", "potencia_media_w": 5500, "horas_por_dia": 0.3},
+    {"id": "lampadas", "nome": "Lâmpadas LED", "potencia_media_w": 9, "horas_por_dia": 5},
+    {"id": "computador", "nome": "Computador", "potencia_media_w": 150, "horas_por_dia": 5},
+    {"id": "maquina_lavar", "nome": "Máquina de lavar", "potencia_media_w": 500, "horas_por_dia": 0.5},
+    {"id": "microondas", "nome": "Micro-ondas", "potencia_media_w": 1200, "horas_por_dia": 0.2},
+    {"id": "roteador", "nome": "Roteador de internet", "potencia_media_w": 12, "horas_por_dia": 24}
+  ]
+}

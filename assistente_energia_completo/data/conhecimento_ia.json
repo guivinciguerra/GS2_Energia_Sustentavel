@@ -1,0 +1,217 @@
+[
+  {
+    "tema": "Fontes renováveis: conceito",
+    "palavras_chave": [
+      "fontes renovaveis",
+      "energia renovavel",
+      "quais fontes",
+      "tipos de energia renovavel"
+    ],
+    "resposta": "Fontes renováveis são repostas por processos naturais em escalas humanas. Em residências e espaços comunitários, destacam-se solar fotovoltaica (eletricidade), solar térmica (aquecimento de água), eólica em locais ventosos e biogás quando há resíduos orgânicos adequados. A escolha depende de recurso local, custos, segurança e legislação.",
+    "fontes": [
+      "aneel",
+      "epe"
+    ]
+  },
+  {
+    "tema": "Solar fotovoltaica: funcionamento",
+    "palavras_chave": [
+      "como funciona energia solar",
+      "energia solar",
+      "painel solar",
+      "placa solar",
+      "fotovoltaica",
+      "painéis solares"
+    ],
+    "resposta": "Painéis fotovoltaicos transformam luz solar em eletricidade; inversores adaptam a energia para uso local/rede. Em casas, escolas, associações e postos comunitários, podem reduzir compras de energia da distribuidora. A geração varia com sol, sombras, orientação e perdas. Fórmula aproximada: geração mensal (kWh) = potência (kWp) × horas de sol pleno por dia × 30 × fator de desempenho.",
+    "fontes": [
+      "epe",
+      "aneel"
+    ]
+  },
+  {
+    "tema": "Vantagens da energia solar",
+    "palavras_chave": [
+      "vantagens energia solar",
+      "beneficios energia solar",
+      "por que instalar solar"
+    ],
+    "resposta": "Vantagens: menor gasto variável com eletricidade, diversificação da fonte e menores emissões operacionais. Limitações: investimento inicial, manutenção, necessidade de área bem iluminada e geração variável. A conta pode continuar incluindo custos fixos e cobranças regulatórias.",
+    "fontes": [
+      "aneel"
+    ]
+  },
+  {
+    "tema": "Solar térmica: aquecimento de água",
+    "palavras_chave": [
+      "aquecimento solar",
+      "aquecedor solar",
+      "energia solar termica",
+      "chuveiro solar",
+      "agua quente solar"
+    ],
+    "resposta": "O aquecimento solar de água usa coletores térmicos e reservatório, sem converter luz em eletricidade. Pode substituir parte do consumo elétrico de chuveiros em casas, vestiários, centros esportivos e cozinhas comunitárias. Economia estimada = kWh elétricos evitados por mês × tarifa evitável (R$/kWh). Exemplo: 90 kWh × R$ 0,85 = R$ 76,50 por mês; hipótese didática, não média nacional.",
+    "fontes": [
+      "ufsc",
+      "australia"
+    ]
+  },
+  {
+    "tema": "Energia eólica em pequena escala",
+    "palavras_chave": [
+      "energia eolica",
+      "aerogerador",
+      "turbina de vento",
+      "energia do vento",
+      "vento energia"
+    ],
+    "resposta": "Pequenos aerogeradores podem atender áreas rurais ou comunitárias com ventos fortes e regulares. Vantagem: geração complementar à solar. Limitações: exige estudo de ventos, espaço, segurança, ruído, manutenção e licenciamento; em bairros urbanos costuma ser menos previsível.",
+    "fontes": [
+      "epe"
+    ]
+  },
+  {
+    "tema": "Biogás e biodigestores",
+    "palavras_chave": [
+      "biogas",
+      "biodigestor",
+      "residuos organicos",
+      "biomassa",
+      "esterco"
+    ],
+    "resposta": "Um biodigestor pode transformar resíduos orgânicos e dejetos em biogás para usos térmicos e, em projetos adequados, geração elétrica. É mais aplicável a sítios, cooperativas, hortas ou espaços com fluxo constante de resíduos. Exige operação técnica, controle de vazamentos, segurança e análise sanitária. Não é apropriado construir ou operar sem assistência qualificada.",
+    "fontes": [
+      "epe"
+    ]
+  },
+  {
+    "tema": "Energia em escolas e centros comunitários",
+    "palavras_chave": [
+      "escola",
+      "centro comunitario",
+      "associacao comunitaria",
+      "espaco comunitario",
+      "posto de saude",
+      "quadra",
+      "igreja"
+    ],
+    "resposta": "Escolas e centros comunitários podem avaliar telhados para geração solar e, quando houver consumo de água quente, aquecimento solar. Associações e cooperativas podem considerar geração compartilhada conforme regras da ANEEL. Benefícios potenciais: reduzir despesas, liberar orçamento para atividades sociais e servir como educação ambiental. É necessário estudar demanda, telhado, tarifa e modelo de contratação.",
+    "fontes": [
+      "aneel",
+      "lei"
+    ]
+  },
+  {
+    "tema": "Geração compartilhada",
+    "palavras_chave": [
+      "geracao compartilhada",
+      "energia compartilhada",
+      "cooperativa de energia",
+      "energia em comunidade",
+      "condominio solar"
+    ],
+    "resposta": "A geração compartilhada permite participação de consumidores organizados em modalidades admitidas pela legislação, como consórcios e cooperativas, observadas regras da ANEEL e da distribuidora. Créditos e cobrança dependem da modalidade, da distribuidora e do enquadramento. Consulte a Lei 14.300 e a ANEEL antes de projetar economia.",
+    "fontes": [
+      "lei",
+      "aneel"
+    ]
+  },
+  {
+    "tema": "Economia da instalação solar",
+    "palavras_chave": [
+      "economia solar",
+      "quanto economiza",
+      "economizar com placas",
+      "calculo de economia",
+      "economia mensal solar",
+      "conta solar"
+    ],
+    "resposta": "Faça uma simulação no menu 4. Fórmulas: geração mensal = kWp × HSP × dias × desempenho; kWh aproveitados = mínimo entre geração e consumo compensável informado; economia mensal = kWh aproveitados × valor efetivamente evitado por kWh; economia anual = economia mensal × 12; retorno simples (anos) = investimento ÷ economia anual. Tarifas e compensação reais podem modificar os resultados.",
+    "fontes": [
+      "aneel",
+      "epe"
+    ]
+  },
+  {
+    "tema": "Prazo de retorno e investimento",
+    "palavras_chave": [
+      "payback",
+      "retorno do investimento",
+      "tempo de retorno",
+      "quanto custa instalar",
+      "investimento solar"
+    ],
+    "resposta": "O retorno simples é estimado por investimento inicial ÷ economia anual, quando a economia é positiva. Exemplo hipotético: R$ 14.000 ÷ (R$ 212,50 × 12) = 5,49 anos. Não inclui juros, troca de equipamentos, manutenção, reajustes e variações de geração; não substitui orçamento.",
+    "fontes": [
+      "aneel"
+    ]
+  },
+  {
+    "tema": "Tarifa, conta e compensação",
+    "palavras_chave": [
+      "tarifa de energia",
+      "custo de disponibilidade",
+      "conta de luz",
+      "fatura de energia",
+      "conta de energia",
+      "credito de energia",
+      "credito solar",
+      "compensacao de energia"
+    ],
+    "resposta": "Na geração distribuída conectada à rede, o sistema de compensação pode abater consumo com a energia injetada, dentro das regras aplicáveis. Mesmo havendo produção solar, contas do grupo B podem incluir custo de disponibilidade (referência equivalente a 30/50/100 kWh segundo tipo de ligação), além de outras cobranças. A tarifa efetivamente evitável não é necessariamente o preço total da fatura dividido pelo consumo.",
+    "fontes": [
+      "aneel",
+      "lei"
+    ]
+  },
+  {
+    "tema": "Consumo e potência",
+    "palavras_chave": [
+      "como calcular kwh",
+      "consumo em kwh",
+      "quilowatt hora",
+      "kwh",
+      "consumo eletrico",
+      "potencia eletrica"
+    ],
+    "resposta": "Energia (kWh) = potência do aparelho (kW) × horas de uso. Exemplo: aparelho de 1,2 kW usado 2 horas por dia durante 30 dias consome 1,2 × 2 × 30 = 72 kWh/mês. Se o kWh evitável vale R$ 0,85, o custo estimado é 72 × 0,85 = R$ 61,20.",
+    "fontes": []
+  },
+  {
+    "tema": "Economia de energia sem investimento",
+    "palavras_chave": [
+      "economizar energia",
+      "economia de energia",
+      "reduzir consumo",
+      "reduzir gasto",
+      "lampada led"
+    ],
+    "resposta": "Troque lâmpadas ineficientes por LED, elimine iluminação desnecessária, regule ar-condicionado e mantenha equipamentos eficientes. Exemplo: trocar 5 lâmpadas de 60 W por LEDs de 9 W, 5 h/dia por 30 dias: (60−9) × 5 × 5 × 30 / 1000 = 38,25 kWh/mês; a R$ 0,85/kWh, economia hipotética de R$ 32,51/mês.",
+    "fontes": []
+  },
+  {
+    "tema": "Impacto ambiental e cuidados",
+    "palavras_chave": [
+      "impacto ambiental",
+      "emissao de carbono",
+      "sustentabilidade",
+      "reciclagem paineis"
+    ],
+    "resposta": "Fontes renováveis geralmente reduzem emissões na operação em comparação a combustíveis fósseis, mas têm impactos na fabricação, ocupação de área e descarte. Um projeto responsável avalia ciclo de vida, reciclagem, instalação segura e eficiência energética. Não há um valor único de CO2 evitado sem fator de emissão e dados locais.",
+    "fontes": [
+      "epe"
+    ]
+  },
+  {
+    "tema": "Bandeiras tarifárias",
+    "palavras_chave": [
+      "bandeira tarifaria",
+      "bandeira vermelha",
+      "bandeira amarela"
+    ],
+    "resposta": "As bandeiras tarifárias refletem condições de custo da geração no sistema elétrico e podem gerar acréscimos na fatura. Para calcular economia real, consulte a tarifa vigente e quais componentes podem ser abatidos.",
+    "fontes": [
+      "aneel"
+    ]
+  }
+]

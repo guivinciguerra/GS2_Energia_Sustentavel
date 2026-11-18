@@ -1,0 +1,27 @@
+{
+  "aneel": {
+    "titulo": "ANEEL — Micro e Minigeração Distribuída",
+    "url": "https://www.gov.br/aneel/pt-br/assuntos/geracao/geracao-distribuida",
+    "observacao": "Sistema de Compensação de Energia Elétrica, créditos e custo de disponibilidade."
+  },
+  "lei": {
+    "titulo": "Lei nº 14.300/2022 — texto atualizado (Câmara dos Deputados)",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/2022/lei-14300-6-janeiro-2022-792217-normaatualizada-pl.html",
+    "observacao": "Marco legal da micro/minigeração distribuída, inclusive modalidades de compartilhamento."
+  },
+  "epe": {
+    "titulo": "EPE — Nota técnica de 2025 sobre metodologia solar fotovoltaica",
+    "url": "https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-889/NT-EPE-DEA-SEE-009-2025.pdf",
+    "observacao": "Relação entre irradiação solar, performance ratio e estimativa de geração."
+  },
+  "ufsc": {
+    "titulo": "UFSC/LabEEE — Impactos do aquecimento solar de água em moradias de baixa renda",
+    "url": "https://labeee.ufsc.br/node/886",
+    "observacao": "Estudo brasileiro com evidências de economia de eletricidade ao aquecer água."
+  },
+  "australia": {
+    "titulo": "Australian Government — Hot water systems",
+    "url": "https://www.energy.gov.au/households/hot-water-systems",
+    "observacao": "Conceitos de aquecimento solar de água e necessidade eventual de apoio energético."
+  }
+}
