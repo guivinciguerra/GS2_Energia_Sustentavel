@@ -1,5 +1,10 @@
 # Assistente de Energia — Pesquisa e Atendimento
 
+## Integrantes
+
+Guilherme Vinciguerra Carvalho - RM 571951
+Marcos Peterson - RM: 573857
+
 ## Iniciar
 
 ```bash
